@@ -8,4 +8,4 @@ Book parameters can be entered in order to rent a book, this function allows stu
 Book paramteres follow the check inventory function, which allows students and employees to check the status of a book. Checking inventory refers to the library system to confirm data. 
 Return book function allows returning books to be referenced to the inventory and returned.
 The code conatins 6 classes.
-iii. The prorgram is run by entering either your student ID or employee ID into the system. Once logged in, the 'person' can check the avilablity of books. 
+iii. The prorgram is run by entering either your student ID or employee ID into the system. Once logged in, the 'person' can check the avilablity of books. If employee ID logins, then they will have the option to register a new person, check inventory or return a book. Students will login with their ID, with the ability to check inventory, rent a book and return a book. New members can be entered before ID login. 
